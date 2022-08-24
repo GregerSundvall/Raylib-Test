@@ -18,7 +18,7 @@ int main(void)
 
     Player player;
     player.position = (Vector3){0,0,0};
-
+    
     
     // Define the camera to look into our 3d world (position, target, up vector)
     Camera camera = {0};
